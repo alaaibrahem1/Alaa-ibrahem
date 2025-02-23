@@ -6,7 +6,7 @@ import { SimpleLayout } from '@/components/SimpleLayout'
 import clinic from '@/images/logos/Clinic.png'
 import gitHubLogo from '@/images/logos/github.png'
 import LolifyLogo from '@/images/logos/Lolify.png'
-import LinkedInLogo from '@/images/logos/linkedin.png'
+import LinkedInLogo from '@/images/logos/LinkedIn.png'
 import pizzaLogo from '@/images/logos/Pizza-logo.png'
 
 
